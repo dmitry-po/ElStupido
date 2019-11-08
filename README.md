@@ -1,0 +1,2 @@
+# ElStupido
+Personal telegram bot
